@@ -4,3 +4,5 @@ Git has mutable index called stage.
 Git tracks changes of files.
 a new line 00 add a word 01
 add in dev branch
+ok
+
