@@ -1,2 +1,2 @@
-this is zousuqi’s first readme file
-yes now add a new line
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
